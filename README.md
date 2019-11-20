@@ -1,2 +1,2 @@
-# KCYB-INTERNSHIP
-Internship of Chinese Academy of Sciences.(LBS,KCYB)
+# KCYB
+课程预备习题数据
