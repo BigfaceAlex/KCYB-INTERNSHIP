@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lbs实习项目</string>
+    <string name="action_range_query">范围查询</string>
+    <string name="action_mark">标注当前点</string>
+    <string name="action_nn_query">最近邻查询</string>
+    <string name="action_settings">设置端口号</string>
+    <string name="port">端口号</string>
+    <string name="action_status">执行状态</string>
+</resources>
