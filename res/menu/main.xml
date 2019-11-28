@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.iscas.lbsclient.MainActivity" >
+
+    <item
+        android:id="@+id/action_range_query"
+        android:orderInCategory="100"
+        android:title="@string/action_range_query"
+        app:showAsAction="never"/>
+    
+     <item
+        android:id="@+id/action_mark"
+        android:orderInCategory="100"
+        android:title="@string/action_mark"
+        app:showAsAction="never"/>
+    
+     <item
+        android:id="@+id/action_nn_query"
+        android:orderInCategory="100"
+        android:title="@string/action_nn_query"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/action_status"
+        android:orderInCategory="100"
+        android:title="@string/action_status"
+        app:showAsAction="never"/>
+
+</menu>
